@@ -14,6 +14,7 @@ public class Aula02TiposPrimitivos {
         boolean verdairo = true;
         boolean falso = false;
         char caractere = 64;
+        String nome = "Marcio";
 
         System.out.println("A idade int é " + idadeInt + " anos.");
         System.out.println("A idade byte é " + idadeByte + " anos.");
@@ -24,5 +25,6 @@ public class Aula02TiposPrimitivos {
         System.out.println("O verdadeiro é " + verdairo);
         System.out.println("O falso é " + falso);
         System.out.println("O caracter 64 da ASCII é " + caractere);
+        System.out.println("O nome dele é: " + nome);
     }
 }
