@@ -1,12 +1,12 @@
 package dev.mjgomes.javacore.classes.teste;
 
-import dev.mjgomes.javacore.classes.dominio.Pessoa;
+import dev.mjgomes.javacore.classes.dominio.Estudante;
 
 public class ProgramaTeste02 {
     public static void main(String[] args) {
 
-        Pessoa pessoa = new Pessoa();
-        Pessoa pessoa02 = new Pessoa();
+        Estudante pessoa = new Estudante();
+        Estudante pessoa02 = new Estudante();
 
         pessoa.nome = "Marcio";
         System.out.println(pessoa.nome);

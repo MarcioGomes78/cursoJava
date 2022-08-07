@@ -1,10 +1,8 @@
 package dev.mjgomes.javacore.classes.dominio;
 
-public class Pessoa {
+public class Professor {
 
-    public String nome = "Mira";
+    public String nome;
     public int idade;
     public char sexo;
-
-
 }
