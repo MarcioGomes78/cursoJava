@@ -17,6 +17,9 @@ public class CarroExercicioTeste {
         carro2.ano = "2021";
         carro2.modelo = "Sedan";
 
+        // Referência de objetos
+        carro1 = carro2;
+
         System.out.println("Marca 1: " + carro1.nome + ", " + "Ano de Fabricação: " + carro1.ano +
                 ", "+ " Seguimento: " + carro1.modelo);
         System.out.println("*************************************************");
