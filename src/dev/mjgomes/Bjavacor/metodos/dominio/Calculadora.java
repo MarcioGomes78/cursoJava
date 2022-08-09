@@ -10,11 +10,12 @@ public class Calculadora {
         System.out.println(30-20);
     }
 
-    public void multiplicaDoisNumeros(){
-        System.out.println(10*5);
+    //Parametros
+    public void multiplicaDoisNumeros(int num1, int num2){
+        System.out.println(num1 * num2);
     }
 
-    public void divideDoisNumeros(){
-        System.out.println(100/20);
+    public void divideDoisNumeros(int num1, int num2){
+        System.out.println(num1 / num2);
     }
 }

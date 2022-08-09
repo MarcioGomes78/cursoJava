@@ -6,6 +6,7 @@ public class CalculadoraTeste01 {
 
     public static void main(String[] args) {
 
+        // Teste sem parametros
         Calculadora calculadora = new Calculadora();
         calculadora.somaDoisNumeros();
         System.out.println("Somado!");
@@ -13,10 +14,10 @@ public class CalculadoraTeste01 {
         calculadora.subtraiDoisNumeros();
         System.out.println("Subtaído!");
         System.out.println("****************************");
-        calculadora.multiplicaDoisNumeros();
-        System.out.println("Multiplicado");
-        System.out.println("****************************");
-        calculadora.divideDoisNumeros();
-        System.out.println("Dividido");
+//        calculadora.multiplicaDoisNumeros();
+//        System.out.println("Multiplicado");
+//        System.out.println("****************************");
+//        calculadora.divideDoisNumeros();
+//        System.out.println("Dividido");
     }
 }
