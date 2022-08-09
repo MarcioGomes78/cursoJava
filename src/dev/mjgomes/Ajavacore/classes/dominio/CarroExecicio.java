@@ -1,4 +1,4 @@
-package dev.mjgomes.javacore.classes.dominio;
+package dev.mjgomes.Ajavacore.classes.dominio;
 
 public class CarroExecicio {
 

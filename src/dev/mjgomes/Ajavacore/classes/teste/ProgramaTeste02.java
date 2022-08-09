@@ -1,6 +1,6 @@
-package dev.mjgomes.javacore.classes.teste;
+package dev.mjgomes.Ajavacore.classes.teste;
 
-import dev.mjgomes.javacore.classes.dominio.Estudante;
+import dev.mjgomes.Ajavacore.classes.dominio.Estudante;
 
 public class ProgramaTeste02 {
     public static void main(String[] args) {

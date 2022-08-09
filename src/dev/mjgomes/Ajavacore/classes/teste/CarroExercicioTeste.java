@@ -1,6 +1,6 @@
-package dev.mjgomes.javacore.classes.teste;
+package dev.mjgomes.Ajavacore.classes.teste;
 
-import dev.mjgomes.javacore.classes.dominio.CarroExecicio;
+import dev.mjgomes.Ajavacore.classes.dominio.CarroExecicio;
 
 public class CarroExercicioTeste {
     public static void main(String[] args) {
